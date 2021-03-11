@@ -8,7 +8,7 @@
 				descriptions = {
 					en = "This plugin does some things.";
 				};
-				path = "Sample-Paddleable-Glyphs-Plugin.glyphsReporter.glyphsReporter";
+				path = "Sample-Paddleable-Glyphs-Plugin.glyphsReporter";
 				screenshot = "";
 				titles = {
 					en = "__ TEST Plugin";

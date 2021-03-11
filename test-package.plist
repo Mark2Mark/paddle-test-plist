@@ -8,11 +8,10 @@
 				descriptions = {
 					en = "This plugin does some things.";
 				};
-				path = "MyPlugin.glyphsReporter";
+				path = "Sample-Paddleable-Glyphs-Plugin.glyphsReporter.glyphsReporter";
 				screenshot = "";
 				titles = {
-					de = "Mein Plugin Anzeigen";
-					en = "Show My Plugin";
+					en = "__ TEST Plugin";
 				};
 				url = "https://github.com/Mark2Mark/test-plugin-1";
 				minVersion = 3062;

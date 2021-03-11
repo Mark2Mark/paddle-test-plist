@@ -9,12 +9,12 @@
 					en = "This plugin does some things.";
 				};
 				path = "MyPlugin.glyphsReporter";
-				screenshot = "https://raw.githubusercontent.com/.../image1.png?raw=true";
+				screenshot = "";
 				titles = {
 					de = "Mein Plugin Anzeigen";
 					en = "Show My Plugin";
 				};
-				url = "https://github.com/Mark2Mark/my-plugin";
+				url = "https://github.com/Mark2Mark/test-plugin-1";
 				minVersion = 3062;
 			},
 		);

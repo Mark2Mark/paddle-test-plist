@@ -11,7 +11,7 @@
 				path = "Sample-Paddleable-Glyphs-Plugin.glyphsReporter";
 				screenshot = "";
 				titles = {
-					en = "__ TEST Plugin";
+					en = "__TEST Paddleable-Glyphs-Plugin";
 				};
 				url = "https://github.com/Mark2Mark/test-plugin-1";
 				minVersion = 3062;

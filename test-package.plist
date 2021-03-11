@@ -3,7 +3,7 @@
 		plugins = (
 			{
 				dependencies = (
-					paddle,
+					paddle
 				);
 				descriptions = {
 					en = "This plugin does some things.";

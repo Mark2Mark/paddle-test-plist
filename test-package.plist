@@ -1,0 +1,40 @@
+{
+	packages = {
+		plugins = (
+			{
+				dependencies = (
+					paddle,
+				);
+				descriptions = {
+					en = "This plugin does some things.";
+				};
+				path = "MyPlugin.glyphsReporter";
+				screenshot = "https://raw.githubusercontent.com/.../image1.png?raw=true";
+				titles = {
+					de = "Mein Plugin Anzeigen";
+					en = "Show My Plugin";
+				};
+				url = "https://github.com/Mark2Mark/my-plugin";
+				minVersion = 3062;
+			},
+		);
+		modules = (
+		    {
+				identifier = paddle;
+				hidden = 1;
+				archs = (
+					intel,
+					arm,
+				);
+				descriptions = {
+					en = "A module required by some plugins to offer a trial period.";
+				};
+				minVersion = 3062;
+				titles = {
+					en = Paddle;
+				};
+				url = "https://github.com/Mark2Mark/paddle-framework";
+			},
+		);
+	};
+}
